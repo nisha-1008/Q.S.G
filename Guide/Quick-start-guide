@@ -22,6 +22,10 @@ WhatsApp
     - [Upload photos to your status](#upload-photos-to-your-status-1)
     - [Upload video to your status](#upload-video-to-your-status-1)
     - [Upload text to your status](#upload-text-to-your-status-1)
+  - [Choosing audience wo can view your status](#choosing-audience-wo-can-view-your-status)
+  - [Frequently Asked Questions](#frequently-asked-questions)
+  - [Troubleshooting](#troubleshooting)
+  - [Best Practices](#best-practices)
 
 ## Overview
 
@@ -592,3 +596,21 @@ This section provides complete information about how to upload text to your stat
 5. Click **Arrow**.
 
 The text is added to your status. Your contacts can view and react to your status.
+
+## Choosing audience wo can view your status
+This topic provides information about choosing audience option of status privacy.
+
+| Option | Description |
+| --- | --- |
+| My contacts | Your contacts can view your status |
+| My contacts except… | Exclude contacts from viewing your status |
+| Only share with… | Select contacts for viewing your status |
+
+## Frequently Asked Questions
+1. Question: Can I share multiple status.
+   Answer: Yes, you can share multiple status.
+## Troubleshooting
+No troubleshooting information is available for this guide.
+
+## Best Practices
+(Content will be added soon)
