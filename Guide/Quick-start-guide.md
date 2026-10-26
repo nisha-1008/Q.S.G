@@ -255,7 +255,7 @@ Select a video from your Instagram media.
 In the bottom-right corner, select Folder, then choose from one of the following:
         * Photos
         * Collections
-    From collection select one of the following:
+From collection select one of the following:
             * Favourites
 Select a video from your favorite files.
             * Camera
@@ -391,23 +391,22 @@ This section provides complete information about how to upload text to your stat
 2. On the Updates screen, tap Add status.
 3. On the Add status screen, select Text.
 4. In the status editor, perform the following:
-* Write what you want to post.
->**Note**: The maximum limit of words for 1 Text status is 700.
-* (Optional) Edit your post using the displayed options. For example, **Font and Color Palette**.
+   * Write what you want to post.
+**Note**: The maximum limit of words for 1 Text status is 700.
+   * (Optional) Edit your post using the displayed options. For example, **Font and Color Palette**.
     * Tap **Done**.
-* (Optional) In the top-left corner, tap X and then tap Discard.
-* (Optional) Tap **@** to tag contacts on your post.
-* (Optional) Tap Status (0 excluded) to do the following:
-    * On the Choose audience screen, select one of the following options to choose your viewers:
+   * (Optional) In the top-left corner, tap X and then tap Discard.
+   * (Optional) Tap **@** to tag contacts on your post.
+   * (Optional) Tap Status (0 excluded) to do the following:
+      * On the Choose audience screen, select one of the following options to choose your viewers:
         * My contacts
         * My contacts except...
         * Only share with...
-    * Select **Reshare** to allow your viewers to reshare your status.
+      * Select **Reshare** to allow your viewers to reshare your status.
       * Share it to your added social media account. For more details, see the **Connecting social media to WhatsApp** section.
 5. Tap **Share**.
 
-The text is added to your status. Your contacts can view and react to
-your status.
+The text is added to your status. Your contacts can view and react to your status.
 
 ### Upload music to your status
 
@@ -488,26 +487,26 @@ This section provides complete information about how to upload photos to your st
    * Photos & Videos
    * Text
 4. In the open dialog box, select one of the following:
-   * Home
-   * Gallery
-   * Perosnal
-   * Desktop
-   * Download
-   * Document
-   * Picture
-   * Music
-   * Videos
-   * This PC
-   * OS (C:)
-   * Network
->**Note**: Select the folder that contains the photo.
+    * Home
+    * Gallery
+    * Perosnal
+    * Desktop
+    * Download
+    * Document
+    * Picture
+    * Music
+    * Videos
+    * This PC
+    * OS (C:)
+    * Network
+    >**Note**: Select the folder that contains the photo.
 5. Click the name of the photo.
 6. Click **Open**.
 7. In the status editor, perform the following:
    * (Optional) In the top-left corner, tap **X** and then tap **Discard**.
    * (Optional) Edit your post using **Undo, Redo, Crop and rotate, Filter, Paint, Text, Shapes, Blur, Emoji, Sticker**.
    * (Optional) Click **Copy** to copy the same image or edited image.
-  >**Note**: Press Ctrl+V to paste the copied photo into the next status slide.
+  **Note**: Press Ctrl+V to paste the copied photo into the next status slide.
    * (Optional) Click **Download** to download your edited photo or the same photo to your device.
    * (Optional) Tap **Status (0 excluded)** to do the following:
       * On the **Choose audience** screen, select one of the following options to choose your viewers:
@@ -515,7 +514,7 @@ This section provides complete information about how to upload photos to your st
         * My contacts except...
         * Only share with...
      * Share it to your added social media account. For more details, see the **Connecting social media to WhatsApp section**.
-8. Click **Arrow**.
+1. Click **Arrow**.
 
 The photo is added to your status. Your contacts can view and react to your status.
 
@@ -534,29 +533,29 @@ This section provides complete information about how to upload videos to your st
     * Photos & Videos
     * Text
 4. An open dialogue box appears, then select one of the following:
-  * Home
-  * Gallery
-  * Personal
-  * Desktop
-  * Download
-  * Document
-  * Picture
-  * Music
-  * Videos
-  * This PC
-  * OS (C:)
-  * Network
->**Note**: Select the navigation pane that contains the video.
+    * Home
+    * Gallery
+    * Personal
+    * Desktop
+    * Download
+    * Document
+    * Picture
+    * Music
+    * Videos
+    * This PC
+    * OS (C:)
+    * Network
+    >**Note**: Select the navigation pane that contains the video.
 5. Select the video file.
 6. Click **Open**.
 7. In the status editor, perform the following:
-  * (Optional) In the top-left corner, tap **X** and then tap **Discard**.
-  * (Optional) Tap the **Speaker** to turn the video sound off or on.
-  * (Optional) Tap **Full screen** to view the video in full-screen mode.
-  * (Optional) Click the **3 dots** to do the following:
-    * Click **Playback speed** to change the video playback speed.
-    * Click **Picture in Picture** to play the video in a floating window.
-  * (Optional) In the **Add a caption...** field, enter a caption.
+    * (Optional) In the top-left corner, tap **X** and then tap **Discard**.
+    * (Optional) Tap the **Speaker** to turn the video sound off or on.
+    * (Optional) Tap **Full screen** to view the video in full-screen mode.
+    * (Optional) Click the **3 dots** to do the following:
+      * Click **Playback speed** to change the video playback speed.
+      * Click **Picture in Picture** to play the video in a floating window.
+    * (Optional) In the **Add a caption...** field, enter a caption.
    * (Optional) Tap **Status (0 excluded)** to do the following:
       * On the **Choose audience** screen, select one of the following options to choose your viewers:
         * My contacts
