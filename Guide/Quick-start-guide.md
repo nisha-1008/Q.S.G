@@ -190,9 +190,9 @@ song:
 **Note**: Suggested is selected by default.
     * (Optional) Tap the **play button** on the desired song cover to review.
     * (Optional) Tap **Star**, to add the song to your starred list.
-1. Tap **arrow**.
+6. Tap **arrow**.
 The music is visible in the status editor.
-1. In the music status editor, perform the following:
+7. In the music status editor, perform the following:
    * (Optional) Select your desired music timeline.
    * (Optional) From the music sticker layout, select one of the following:
       * No layout
@@ -202,7 +202,7 @@ The music is visible in the status editor.
       * Artwork layout
    * (Optional) Tap **Bin** to remove music.
     * Tap Done.
-2. In the status editor, perform the following:
+8. In the status editor, perform the following:
     * (Optional) Edit your post using the displayed options. For example,
 **Pencil, Font, Music, Sticker, and Crop**.
     * (Optional) Tap **Restyle with AI** to change your photo into an AI image.
@@ -217,10 +217,9 @@ The music is visible in the status editor.
         * Select **Reshare** to allow your viewers to reshare your status.
         * Share it to your added social media account. For more details, see the
 **Connecting social media to WhatsApp** section.
-1. Tap **Share**.
+9. Tap **Share**.
 
-The photo with music is added to your status. Your contacts can listen,
-view, and react to your status.
+The photo with music is added to your status. Your contacts can listen, view, and react to your status.
 
 ### Upload video to your status
 This section provides complete information about how to upload a video to your status from your mobile phone.
@@ -355,8 +354,8 @@ the search results.
     * (Optional) Tap **Star**, to add the song to your starred list.
 
 6. Tap **arrow**.
-    * The music is visible in the status editor.
-7. In the music status editor, perform the following:
+The music is visible in the status editor.
+1. In the music status editor, perform the following:
     * (Optional) Select your desired music timeline.
     * (Optional) From the music sticker layout, select one of the following:
         * No layout
@@ -366,7 +365,7 @@ the search results.
         * Artwork layout
     * (Optional) Tap **Bin** to remove music.
     * Tap **Done**.
-8. In the status editor, perform the following:
+2. In the status editor, perform the following:
     * (Optional) Adjust the video timeline and Volume.
     * (Optional) Edit your post using the displayed options. For example,
 **Pencil, Font, and Sticker**.
@@ -456,8 +455,8 @@ Follow these steps:
 4. In the status editor, perform the following:
     * In the bottom-right corner, hold the mic button to start recording.
     >**Note**:
-      >* The duration of the voice recording is 1 min 30sec.
-      >* Slide left to cancel the recorded voice.
+     >* The duration of the voice recording is 1 min 30sec.
+     >* Slide left to cancel the recorded voice.
     * (Optional) In the top-left corner, tap **X** and then tap **Discard**.
     * (Optional) Edit background using **Color Palette**.
     * (Optional) Tap **@** to tag contacts on your post.
